@@ -1,6 +1,4 @@
-# Text color
-
-## How to use
+# How to use
 
 ```go
 package main
@@ -17,11 +15,11 @@ func main() {
 }
 ```
 
-## Color supported
+# Color supported
 
 black, red, green, yellow, blue, cyan, white, magenta(default)
 
-## OS
+# OS
 
 - Linux: yes
 - Windows: powershell
