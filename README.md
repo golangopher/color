@@ -15,7 +15,7 @@ func main() {
 }
 ```
 
-# Color supported
+# Colors supported
 
 black, red, green, yellow, blue, cyan, white, magenta(default)
 
