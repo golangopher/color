@@ -4,7 +4,6 @@ import (
 	"fmt"
 )
 
-// colors
 var baseColors = map[string]string{
 	"black":   "\033[30m",
 	"red":     "\033[31m",
